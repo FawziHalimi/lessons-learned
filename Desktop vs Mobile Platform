@@ -1,2 +1,6 @@
 We should always keep in mind the type of service we're providing and the use-cases of our users when deciding whether we should develop a mobile app or a mobile-optimized webb app.
 If our users will likely need to input a lot of information(especially text), or use our service for complex tasks, it is best to design a web service, which can be mobile-optimized. Otherwise, if our user will need to conduct quick tasks on the go, we are better off developing an app to offer our service
+
+Here is a good blog post about it: http://hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/
+
+![Image](http://www.siteforbiz.com/wp-content/uploads/2014/10/appVwebsite.png)

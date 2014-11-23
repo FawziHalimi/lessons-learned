@@ -3,3 +3,6 @@ There are several charactersitics that a good programmer should present:
 - Needs to be updated (new technologies, frameworks, etc).
 - Should have some documentation process in order to track change requests and modifications in the code.
 - Has to develop a robust testing process to ensure that requirements go to production only when they have been properly tested.
+
+The three questions to ask to know whether you're hiring a good programmer:
+What unit testing/version control/framework do you use? Why? What did you compare it to?
